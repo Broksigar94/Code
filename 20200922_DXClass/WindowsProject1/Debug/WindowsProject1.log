@@ -1,0 +1,3 @@
+﻿  myWin.cpp
+D:\Kimboseong\c++\WindowsProject1\WindowsProject1\myWin.cpp(101,25): warning C4316: 'C_MYWIN': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+  WindowsProject1.vcxproj -> D:\Kimboseong\c++\WindowsProject1\Debug\WindowsProject1.exe
